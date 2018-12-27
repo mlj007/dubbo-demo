@@ -8,7 +8,7 @@
 
 ## 提示  
 
-这个例子来自官网[incubator-dubbo] （https://github.com/apache/incubator-dubbo ）本例子无需修改可直接使用。
+这个例子来自官网[incubator-dubbo](https://github.com/apache/incubator-dubbo)，本用例无需修改可直接使用。
 
 
 ## 如何使用
