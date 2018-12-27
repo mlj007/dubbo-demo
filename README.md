@@ -8,12 +8,12 @@
 
 ## 提示  
 
-这个例子来自官网[incubator-dubbo]（https://github.com/apache/incubator-dubbo），本例子无需修改可直接使用。
+这个例子来自官网[incubator-dubbo] （https://github.com/apache/incubator-dubbo ）本例子无需修改可直接使用。
 
 
 ## 如何使用
 
-可以用你的IDE Terminal 进入dubbo-admin模块——>dubbo-demo-provider——>target文件下执行命令运行它
+可以用你的IDE Terminal 分别进入dubbo-admin模块下 dubbo-demo-provider 和dubbo-demo-consumer 的target文件下执行命令运行
 
 命令：java -jar dubbo-demo-provider-2.6.6-SNAPSHOT.jar 运行服务端，
 
