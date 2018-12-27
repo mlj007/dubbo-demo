@@ -11,7 +11,23 @@
 这个例子来自官网[incubator-dubbo](https://github.com/apache/incubator-dubbo)，本用例无需修改可直接使用。
 
 
-## 如何使用
+## 使用说明
+
+一、修改配置：
+
+1、dubbo-demo-provider.xml 文件中<dubbo:registry address="multicast://224.5.6.7:1234"/> 
+
+改成<dubbo:registry address="zookeeper://10.0.23.115:2181"/> 
+
+10.0.23.115是zookeeper注册中心的ip ，2181是zookeeper端口号。
+
+2、dubbo-demo-consumer.xml 文件中<dubbo:registry address="multicast://224.5.6.7:1234"/> 
+
+改成<dubbo:registry address="zookeeper://10.0.23.115:2181"/> 
+
+10.0.23.115是zookeeper注册中心的ip ，2181是zookeeper端口号。
+
+二、启动程序：
 
 可以用你的IDE Terminal 
 
