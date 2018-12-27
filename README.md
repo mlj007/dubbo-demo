@@ -1,4 +1,4 @@
-# dubbo 服务端和客户使用栗子
+# dubbo 服务端和客户端使用栗子
 下列模块的下载地址[Apache Dubbo(incubating)](https://github.com/mlj007/dubbo-demo):
 
 * dubbo-admin
