@@ -1,9 +1,9 @@
 # dubbo 服务端和客户端使用栗子
 下列模块的下载地址[Apache Dubbo(incubating)](https://github.com/mlj007/dubbo-demo):
 
-* dubbo-admin
-* dubbo-monitor-simple
-* dubbo-registry-simple
+* dubbo-demo-api
+* dubbo-demo-consumer
+* dubbo-demo-provider
 
 
 ## 提示  
@@ -24,7 +24,6 @@
 命令 java -jar dubbo-demo-consumer-2.6.6-SNAPSHOT.jar 运行客户端.
 
 3、后台查看服务使用情况
-![Alt text](/doc/1.jpg)
 
 
 
