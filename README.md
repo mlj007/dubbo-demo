@@ -42,6 +42,11 @@
 3、后台查看服务使用情况
 
   [管理后台源码地址](https://github.com/mlj007/incubator-dubbo-ops) 
+  
+  
+ 三、zookeeper 安装步骤 
+ 
+ https://blog.csdn.net/jenny8080/article/details/85287781
 
 
 
