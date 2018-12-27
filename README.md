@@ -16,7 +16,7 @@ dubbo admin is 官方主干 develop 的分支，本例子无需修改可直接�
 
 ### dubbo admin
 
-这版 Dubbo admin 是 spring boot 应用, 可以在你的IDE 进入tager文件下执行 jar  命令：java -jar dubbo-admin-0.0.1-SNAPSHOT.jar .
+这版 Dubbo admin 是 spring boot 应用, 可以在你的IDE 进入tager文件下执行 jar  命令：java -jar dubbo-demo-provider-2.6.6-SNAPSHOT.jar 运行服务端，命令 java -jar dubbo-demo-consumer-2.6.6-SNAPSHOT.jar 运行客户端.
 
 ### dubbo monitor and dubbo registry
 
