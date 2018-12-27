@@ -15,7 +15,7 @@
 
 可以用你的IDE Terminal 
 
-1、进入dubbo-admin模块下 dubbo-demo-provider 的target文件下执行命令运行
+1、进入dubbo-demo 模块下 dubbo-demo-provider 的target文件下执行命令运行
 
 命令：java -jar dubbo-demo-provider-2.6.6-SNAPSHOT.jar 运行服务端 
 
@@ -23,11 +23,10 @@
 
 命令 java -jar dubbo-demo-consumer-2.6.6-SNAPSHOT.jar 运行客户端.
 
-### dubbo admin
+3、后台查看服务使用情况
+![Alt text](/doc/1.jpg)
 
-这版 Dubbo admin 是 spring boot 应用, 
 
-### dubbo monitor and dubbo registry
 
 
 
