@@ -13,9 +13,13 @@
 
 ## 如何使用
 
-可以用你的IDE Terminal 分别进入dubbo-admin模块下 dubbo-demo-provider 和dubbo-demo-consumer 的target文件下执行命令运行
+可以用你的IDE Terminal 
 
-命令：java -jar dubbo-demo-provider-2.6.6-SNAPSHOT.jar 运行服务端，
+1、进入dubbo-admin模块下 dubbo-demo-provider 的target文件下执行命令运行
+
+命令：java -jar dubbo-demo-provider-2.6.6-SNAPSHOT.jar 运行服务端 
+
+2、进入dubbo-admin模块下 dubbo-demo-consumer 的target文件下执行命令运行
 
 命令 java -jar dubbo-demo-consumer-2.6.6-SNAPSHOT.jar 运行客户端.
 
